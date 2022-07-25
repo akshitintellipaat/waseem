@@ -1,0 +1,6 @@
+Dear Learner,
+
+Kindly be informed that we are already aware of this issue. This issue is the result of recent changes from Kubernetes or the Ubuntu server.
+There may be some API conflict that was not before. No proper resolution is provided by the officials until now, so resolving it will absolutely take time.
+
+You can submit your assignment/case study till this step so that you don't face any issues in getting your certificate. Otherwise, you can go ahead with Minikube method where you don't have to create any clusters.
